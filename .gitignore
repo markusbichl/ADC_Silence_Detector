@@ -1,9 +1,9 @@
 # Build output
-obj/
+**/obj/
 
 # MounRiver Studio generated / user-instance files
-.mrs/*.snapshot
-.mrs/*-[0-9]*.mrs-workspace
+**/.mrs/*.snapshot
+**/.mrs/*-[0-9]*.mrs-workspace
 
 # macOS
 .DS_Store
