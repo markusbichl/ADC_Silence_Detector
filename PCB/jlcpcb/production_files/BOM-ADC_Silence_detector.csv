@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100n,C3,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+1u,C2,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+Conn_01x04_Pin,J4,PinHeader_1x04_P2.54mm_Vertical,,1
+USB_A,J5,USB_A_Connfly_DS1095,,1
+USB_B_Mini,J3,USB_Mini-B_Wuerth_65100516121_Horizontal,,1
+10k,R1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+~,U1,TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL,,1
+1u,C1,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+AP2112K-3.3,U2,SOT-23-5_HandSoldering,,1
+Conn_Coaxial_x2,J2,BNC_Win_364A2x95_Horizontal,,1
+Conn_Coaxial_x2,J1,BNC_Win_364A2x95_Horizontal,,1
+AP22804AW5,U3,SOT-23-5,,1
+120u,C6,CP_Elec_6.3x5.8,,1
+100n,C5,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+1u,C4,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1

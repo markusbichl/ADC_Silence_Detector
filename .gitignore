@@ -1,9 +1,14 @@
 # Build output
-**/obj/
+SW/obj/
 
 # MounRiver Studio generated / user-instance files
-**/.mrs/*.snapshot
-**/.mrs/*-[0-9]*.mrs-workspace
+SW/.mrs/*.snapshot
+SW/.mrs/*-[0-9]*.mrs-workspace
+
+# KiCAD Backups, DRC
+PCB/*-backups
+PCB/*.rpt
+PCB/.history
 
 # macOS
 .DS_Store
