@@ -1,3 +1,6 @@
+![PCB populated render](Demo/PCB_populated.png "ADC Silence Detector PCB populated rendered")
+
+
 # ADC Silence Detector
 
 A compact embedded device that monitors analog audio input and automatically cuts power to a downstream USB ADC when silence is detected - eliminating idle noise and unnecessary power draw.
@@ -107,7 +110,7 @@ Demo
 3. Connect a WCH-Link programmer to the SWD/SDI header.
 4. Click **Download** to flash the `.hex` to the CH32X033.
 
-Debug output is available over SDI (single-wire debug interface) at 115200 baud and prints the raw ADC level on every 500 ms poll cycle.
+Debug output is available over SDI (single-wire debug interface) at 115200 baud and prints the raw ADC level on every poll cycle.
 
 ---
 
